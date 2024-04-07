@@ -1,0 +1,12 @@
+[package]
+name = "nvim-update"
+description = "Script to build neovim environment from appimage"
+repository = ""
+authors = ["Daiki Nakashima <daiki48.engineer@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+categories = ["command-line-utilities"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
